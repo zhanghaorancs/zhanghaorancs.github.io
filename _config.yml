@@ -21,7 +21,7 @@ url                      : https://zhanghaorancs.github.io # the base hostname &
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "zhr.jpg"
   name             : "张浩然(Haoran Zhang)"
   pronouns         : # example: "she/her"  
   bio              : "Research Assistant"
