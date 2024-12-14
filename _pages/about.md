@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -55,8 +55,6 @@ I am open to academic collaborations and welcome discussions concerning potentia
 - *2015.09 - 2019.06*, BEng. Qilu University of Technology, Jinan Shandong. 
 
 # 💬 Invited Talks
-{%- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)%}
 
 # 💻 Internships
 - *2022.05 - 2022.07*, ByteDance, Beijing China.
