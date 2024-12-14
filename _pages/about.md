@@ -31,7 +31,7 @@ I am open to academic collaborations and welcome discussions concerning potentia
 # 📝 Publications 
 
 - [Fedeval: Defending Against Lazybone Attack via Multi-dimension Evaluation in Federated Learning](https://dl.acm.org/doi/abs/10.1145/3703631), Hao Wang, **Haoran Zhang**, Lu Wang, Shichang Xuan, Qian Zhang, **ACM Transactions on Sensor Networks(TOSN) (CCF B)**
-- [Decentralized federated learning based on blockchain: concepts, framework, and challenges](https://www.sciencedirect.com/science/article/pii/S0140366423004851), **Haoran Zhang**, Shan Jiang, Shichang Xuan, **Computer Communications**
+- [Decentralized Federated Learning based on Blockchain: Concepts, Framework, and Challenges](https://www.sciencedirect.com/science/article/pii/S0140366423004851), **Haoran Zhang**, Shan Jiang, Shichang Xuan, **Computer Communications**
 
 # 🎖 Honors and Awards
 - *2019.09-2024-10*: The First、Second Prize Scholarship.
