@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am is currently a third-year PhD student at Harbin Engineering University. Prior that, I have reveived the MEng degree from Harbin Engineering University in Mar 2022. Also, I work as a Research Assistant at <a href='https://www4.comp.polyu.edu.hk/~labimcl/index.html'>IMCL lab in The Hong Kong Polytechnic University, supervised by <a href='https://www4.comp.polyu.edu.hk/~csjcao/'>Prof.Jiannong Cao and <a href='https://www4.comp.polyu.edu.hk/~shanjiang/'>Dr.Shan Jiang.
+I am is currently a third-year PhD student at Harbin Engineering University. Prior that, I have reveived the MEng degree from Harbin Engineering University in Mar 2022. Also, I work as a Research Assistant at <a href='https://www4.comp.polyu.edu.hk/~labimcl/index.html'>IMCL lab</a> in The Hong Kong Polytechnic University, supervised by Prof.<a href='https://www4.comp.polyu.edu.hk/~csjcao/'>Jiannong Cao</a> and Dr.<a href='https://www4.comp.polyu.edu.hk/~shanjiang/'>Shan Jiang</a>.
 
 My research interest includes Collaborative Edge Computing, Distributed machine learning, Federated Learning, and Blockchain.
 
 I am open to academic collaborations and welcome discussions concerning potential researchpartnerships.
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 I am joining the IMCL lab<a href='https://www4.comp.polyu.edu.hk/~labimcl/index.html'> in The Hong Kong Polytechnic University as a Research Assistant, directed by Prof. Jiannong Cao<a href='https://www4.comp.polyu.edu.hk/~csjcao/'>. 
+- *2024.03*: &nbsp;🎉🎉 I am joining the <a href='https://www4.comp.polyu.edu.hk/~labimcl/index.html'>IMCL lab</a> in The Hong Kong Polytechnic University as a Research Assistant, directed by Prof. <a href='https://www4.comp.polyu.edu.hk/~csjcao/'>Jiannong Cao</a>. 
 - *2024.01*: &nbsp;🎉🎉 Our survey paper on decentralized federated learning has been accepted by Computer Communications.
 
 # 📝 Publications 
