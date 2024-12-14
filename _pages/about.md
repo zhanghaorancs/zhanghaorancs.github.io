@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year PhD student at Harbin Engineering University. Prior that, I have reveived the MEng degree from Harbin Engineering University in Mar 2022. Also, I work as a Research Assistant at <a href='https://www4.comp.polyu.edu.hk/~labimcl/index.html'>IMCL lab</a> in The Hong Kong Polytechnic University, supervised by Prof.<a href='https://www4.comp.polyu.edu.hk/~csjcao/'>Jiannong Cao</a> and Dr.<a href='https://www4.comp.polyu.edu.hk/~shanjiang/'>Shan Jiang</a>.
+I am currently a third-year PhD student at Harbin Engineering University. Prior that, I have reveived the M.S. degree from Harbin Engineering University in Mar 2022. Also, I work as a Research Assistant at <a href='https://www4.comp.polyu.edu.hk/~labimcl/index.html'>IMCL lab</a> in The Hong Kong Polytechnic University, supervised by Prof.<a href='https://www4.comp.polyu.edu.hk/~csjcao/'>Jiannong Cao</a> and Dr.<a href='https://www4.comp.polyu.edu.hk/~shanjiang/'>Shan Jiang</a>.
 
 My research interest includes Collaborative Edge Computing, Distributed machine learning, Federated Learning, and Blockchain.
 
@@ -40,8 +40,7 @@ I am open to academic collaborations and welcome discussions concerning potentia
 
 # 📖 Educations
 - *2022.09 - (now)*: PhD student, Harbin Engineering University, Harbin Heilongjiang.
-- *2019.09 - 2022.03*: MEng. Harbin Engineering University, Harbin Heilongjiang.  
-- *2015.09 - 2019.06*: BEng. Qilu University of Technology, Jinan Shandong. 
+- *2019.09 - 2022.03*: M.S., Harbin Engineering University, Harbin Heilongjiang.  
 
 # 💬 Invited Talks
 To be continued
