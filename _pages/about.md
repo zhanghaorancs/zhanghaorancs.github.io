@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am is currently a third-year PhD student at Harbin Engineering University. Prior that, I have reveived the MEng degree from Harbin Engineering University in Mar 2022. Also, I work as a Research Assistant at <a href='https://www4.comp.polyu.edu.hk/~labimcl/index.html'>IMCL lab</a> in The Hong Kong Polytechnic University, supervised by Prof.<a href='https://www4.comp.polyu.edu.hk/~csjcao/'>Jiannong Cao</a> and Dr.<a href='https://www4.comp.polyu.edu.hk/~shanjiang/'>Shan Jiang</a>.
+I am currently a third-year PhD student at Harbin Engineering University. Prior that, I have reveived the MEng degree from Harbin Engineering University in Mar 2022. Also, I work as a Research Assistant at <a href='https://www4.comp.polyu.edu.hk/~labimcl/index.html'>IMCL lab</a> in The Hong Kong Polytechnic University, supervised by Prof.<a href='https://www4.comp.polyu.edu.hk/~csjcao/'>Jiannong Cao</a> and Dr.<a href='https://www4.comp.polyu.edu.hk/~shanjiang/'>Shan Jiang</a>.
 
 My research interest includes Collaborative Edge Computing, Distributed machine learning, Federated Learning, and Blockchain.
 
 I am open to academic collaborations and welcome discussions concerning potential researchpartnerships.
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 Our paper Fedeval has been accepted by ACM Transactions on Sensor Networks(<a href='https://dl.acm.org/doi/abs/10.1145/3703631'>PDF</a>).
+- *2024.12*: &nbsp;🎉🎉 Our paper **Fedeval** has been accepted by ACM Transactions on Sensor Networks(<a href='https://dl.acm.org/doi/abs/10.1145/3703631'>PDF</a>).
 - *2024.03*: &nbsp;🎉🎉 I am joining the <a href='https://www4.comp.polyu.edu.hk/~labimcl/index.html'>IMCL lab</a> in The Hong Kong Polytechnic University as a Research Assistant, directed by Prof. <a href='https://www4.comp.polyu.edu.hk/~csjcao/'>Jiannong Cao</a>. 
-- *2024.01*: &nbsp;🎉🎉 Our survey paper on decentralized federated learning has been accepted by Computer Communications(<a href='https://www.sciencedirect.com/science/article/pii/S0140366423004851'>PDF</a>).
+- *2024.01*: &nbsp;🎉🎉 Our survey paper on **Decentralized Federated Learning based on Blockchain** has been accepted by Computer Communications(<a href='https://www.sciencedirect.com/science/article/pii/S0140366423004851'>PDF</a>).
 
 # 📝 Publications 
 
@@ -56,6 +56,7 @@ I am open to academic collaborations and welcome discussions concerning potentia
 - *2015.09 - 2019.06*, BEng. Qilu University of Technology, Jinan Shandong. 
 
 # 💬 Invited Talks
+To be continued
 
 # 💻 Internships
 - *2022.05 - 2022.07*, ByteDance, Beijing China.
