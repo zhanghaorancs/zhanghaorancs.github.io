@@ -39,6 +39,7 @@ I am open to academic collaborations and welcome discussions concerning potentia
 - *2017.12*: National Encouragement Scholarship.
 
 # 📖 Educations
+-*2024.03 - (now)*: Research Assistant, The Hong Kong Polytechnic University, Hong Kong, directed by Prof. <a href='https://www4.comp.polyu.edu.hk/~csjcao/'>Jiannong Cao</a> & Dr.<a href='https://www4.comp.polyu.edu.hk/~shanjiang/'>Shan Jiang</a>.
 - *2022.09 - (now)*: PhD student, Harbin Engineering University, Harbin Heilongjiang.
 - *2019.09 - 2022.03*: M.S., Harbin Engineering University, Harbin Heilongjiang.  
 
