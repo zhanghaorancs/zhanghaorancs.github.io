@@ -30,29 +30,18 @@ I am open to academic collaborations and welcome discussions concerning potentia
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Fedeval: Defending Against Lazybone Attack via Multi-dimension Evaluation in Federated Learning](https://dl.acm.org/doi/abs/10.1145/3703631), Hao Wang, Haoran Zhang, Lu Wang, Shichang Xuan, Qian Zhang, **ACM Transactions on Sensor Networks(TOSN) (CCF B)**
+- [Decentralized federated learning based on blockchain: concepts, framework, and challenges](https://www.sciencedirect.com/science/article/pii/S0140366423004851), **Haoran Zhang**, Shan Jiang, Shichang Xuan, **Computer Communications**
 
 # 🎖 Honors and Awards
-- *2019.09-2024-10* The First、Second Prize Scholarship.
-- *2019.06* Outstanding Graduate of Shandong Province.
-- *2017.12* National Encouragement Scholarship.
+- *2019.09-2024-10*: The First、Second Prize Scholarship.
+- *2019.06*: Outstanding Graduate of Shandong Province.
+- *2017.12*: National Encouragement Scholarship.
 
 # 📖 Educations
-- *2022.09 - (now)*, PhD student, Harbin Engineering University, Harbin Heilongjiang.
-- *2019.09 - 2022.03*, MEng. Harbin Engineering University, Harbin Heilongjiang.  
-- *2015.09 - 2019.06*, BEng. Qilu University of Technology, Jinan Shandong. 
+- *2022.09 - (now)*: PhD student, Harbin Engineering University, Harbin Heilongjiang.
+- *2019.09 - 2022.03*: MEng. Harbin Engineering University, Harbin Heilongjiang.  
+- *2015.09 - 2019.06*: BEng. Qilu University of Technology, Jinan Shandong. 
 
 # 💬 Invited Talks
 To be continued
