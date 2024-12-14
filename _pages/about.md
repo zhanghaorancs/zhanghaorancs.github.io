@@ -45,10 +45,9 @@ I am open to academic collaborations and welcome discussions concerning potentia
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2019.06*
-- *2017.12* 
+- *2019.09-2024-10* The First、Second Prize Scholarship.
+- *2019.06* Outstanding Graduate of Shandong Province.
+- *2017.12* National Encouragement Scholarship.
 
 # 📖 Educations
 - *2022.09 - (now)*, PhD student, Harbin Engineering University, Harbin Heilongjiang.
