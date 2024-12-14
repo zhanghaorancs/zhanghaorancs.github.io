@@ -46,6 +46,6 @@ I am open to academic collaborations and welcome discussions concerning potentia
 # 💬 Invited Talks
 To be continued
 
-# 💻 Internships/Visiting
+# 💻 Visiting and Internships
 - *2024.03 - 2025.03*, Research Assistant, The Hong Kong Polytechnic University, Hong Kong.
 - *2022.05 - 2022.07*, ByteDance, Beijing China.
