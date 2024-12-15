@@ -24,9 +24,9 @@ My research interest includes Collaborative Edge Computing, Distributed machine 
 I am open to academic collaborations and welcome discussions concerning potential researchpartnerships.
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 Our paper **Fedeval** has been accepted by ACM Transactions on Sensor Networks(<a href='https://dl.acm.org/doi/abs/10.1145/3703631'>PDF</a>).
+- *2024.12*: &nbsp;🎉🎉 Our paper **Fedeval** has been accepted by **ACM Transactions on Sensor Networks(TOSN)**.
 - *2024.03*: &nbsp;🎉🎉 I am joining the <a href='https://www4.comp.polyu.edu.hk/~labimcl/index.html'>IMCL lab</a> in The Hong Kong Polytechnic University as a Research Assistant, directed by Prof. <a href='https://www4.comp.polyu.edu.hk/~csjcao/'>Jiannong Cao</a>. 
-- *2023.12*: &nbsp;🎉🎉 Our survey paper on **Decentralized Federated Learning based on Blockchain** has been accepted by Computer Communications(<a href='https://www.sciencedirect.com/science/article/pii/S0140366423004851'>PDF</a>).
+- *2023.12*: &nbsp;🎉🎉 Our survey paper on **Decentralized Federated Learning based on Blockchain** has been accepted by **Computer Communications**.
 
 # 📝 Publications 
 
