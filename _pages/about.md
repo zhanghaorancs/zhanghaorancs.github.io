@@ -44,7 +44,7 @@ I am open to academic collaborations and welcome discussions concerning potentia
 - *2019.09 - 2022.03*: M.S., Harbin Engineering University, Harbin Heilongjiang.  
 
 # 💬 Invited Talks
-- *2025。01.16*: <a href='https://mp.weixin.qq.com/s/OazetCc5Ggd-YRSDkw-WZw'>Long Jiang Computer Youth Salon (3rd session)</a>.
+- *2025.01.16*: <a href='https://mp.weixin.qq.com/s/OazetCc5Ggd-YRSDkw-WZw'>Long Jiang Computer Youth Salon (3rd session)</a>.
 # 💻 Visiting and Internships
 - *2024.03 - 2025.03*, Research Assistant, The Hong Kong Polytechnic University, Hong Kong.
 - *2022.05 - 2022.07*, ByteDance, Beijing China.
