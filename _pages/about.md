@@ -27,7 +27,7 @@ I am open to academic collaborations and welcome discussions concerning potentia
 - *2025.05*: &nbsp;🎉🎉 One work submit to **IEEE Transactions on Mobile Computing(TMC)**.
 - *2024.12*: &nbsp;🎉🎉 Our paper **Fedeval** has been accepted by **ACM Transactions on Sensor Networks(TOSN)**.
 - *2024.03*: &nbsp;🎉🎉 I am joining the <a href='https://www4.comp.polyu.edu.hk/~labimcl/index.html'>IMCL lab</a> in The Hong Kong Polytechnic University as a Research Assistant, directed by Prof. <a href='https://www4.comp.polyu.edu.hk/~csjcao/'>Jiannong Cao</a>. 
-- *2023.12*: &nbsp;🎉🎉 Our survey paper on **Decentralized Federated Learning based on Blockchain** has been accepted by **Computer Communications**.
+- *2023.12*: &nbsp;🎉🎉 One survey about **Decentralized Federated Learning based on Blockchain** has been accepted by **Computer Communications**.
 
 # 📝 Publications 
 
