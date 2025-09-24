@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student at College of Computer Science and Technology, Harbin Engineering University. Prior that, I have reveived the M.S. degree from Harbin Engineering University in Mar 2022. Also, I am an Research Assistant at <a href='https://www4.comp.polyu.edu.hk/~labimcl/index.html'>IMCL lab</a> in The Hong Kong Polytechnic University, supervised by Prof.<a href='https://www4.comp.polyu.edu.hk/~csjcao/'>Jiannong Cao</a>, from Mar 2024 to Mar 2025.
+I am currently a PhD student at College of Computer Science and Technology, Harbin Engineering University. Prior that, I have reveived the M.S. degree from Harbin Engineering University in Mar 2022. Also, I worked as an Research Assistant at <a href='https://www4.comp.polyu.edu.hk/~labimcl/index.html'>IMCL lab</a> in The Hong Kong Polytechnic University, supervised by Prof.<a href='https://www4.comp.polyu.edu.hk/~csjcao/'>Jiannong Cao</a>, from Mar 2024 to Mar 2025.
 
-My research interest includes Edge AI, Distributed machine learning, Federated Learning, and Blockchain.
+My research interest includes Edge Computing, Edge AI, Distributed machine learning, Federated Learning, Federated Large Language Model and Fine-Tuning.
 
 I am open to academic collaborations and welcome discussions concerning potential research partner ships.
 
